@@ -245,7 +245,6 @@ operator:
 
 # `BLACK TERMINAL`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=700&pause=100&color=00FF00&center=true&vCenter=true&width=700&lines=INITIALIZING+SYSTEM...;LOADING+DATA+STREAM...;SCANNING+NETWORK...;ACCESS+GRANTED;UNKNOWN+IDENTITY." />
 
 </div>
 
