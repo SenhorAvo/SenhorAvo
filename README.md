@@ -241,7 +241,6 @@ operator:
 <div align="center">
 
 ```html
-<div align="center">
 
 # `BLACK TERMINAL`
 
@@ -300,7 +299,7 @@ operator:
 STATUS: ONLINE
 ```
 
-## `// INFINITE LOOP`
+## `// ERROR 404`
 
 ```text
 010101010101010101010101010101010101010101010101
